@@ -1,0 +1,2498 @@
+{
+    "IM-0001-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9689241051673889
+    },
+    "IM-0003-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9884598255157471
+    },
+    "IM-0005-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9497748613357544
+    },
+    "IM-0006-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8153941035270691
+    },
+    "IM-0007-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6876915097236633
+    },
+    "IM-0009-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.981900691986084
+    },
+    "IM-0010-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8825530409812927
+    },
+    "IM-0011-0001-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8276688456535339
+    },
+    "IM-0011-0001-0002.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8614886999130249
+    },
+    "IM-0011-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8771651387214661
+    },
+    "IM-0013-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.601150393486023
+    },
+    "IM-0015-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9058981537818909
+    },
+    "IM-0016-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9725492596626282
+    },
+    "IM-0017-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.906682550907135
+    },
+    "IM-0019-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.945831835269928
+    },
+    "IM-0021-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7724313139915466
+    },
+    "IM-0022-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9963670372962952
+    },
+    "IM-0023-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9627238512039185
+    },
+    "IM-0025-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.2617841064929962
+    },
+    "IM-0027-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8031842708587646
+    },
+    "IM-0028-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9739710688591003
+    },
+    "IM-0029-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.3843701183795929
+    },
+    "IM-0030-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.36380916833877563
+    },
+    "IM-0031-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9346052408218384
+    },
+    "IM-0033-0001-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.3841753304004669
+    },
+    "IM-0033-0001-0002.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.35319700837135315
+    },
+    "IM-0033-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7110057473182678
+    },
+    "IM-0035-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9105997681617737
+    },
+    "IM-0036-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5490464568138123
+    },
+    "IM-0037-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8638214468955994
+    },
+    "IM-0039-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.995631754398346
+    },
+    "IM-0041-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.268697589635849
+    },
+    "IM-0043-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8271259069442749
+    },
+    "IM-0045-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5365622043609619
+    },
+    "IM-0046-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5415184497833252
+    },
+    "IM-0049-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7456132173538208
+    },
+    "IM-0050-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.13300909101963043
+    },
+    "IM-0059-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9256793260574341
+    },
+    "IM-0061-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5736709833145142
+    },
+    "IM-0063-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.12214415520429611
+    },
+    "IM-0065-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8939786553382874
+    },
+    "IM-0067-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5174012780189514
+    },
+    "IM-0069-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7182734608650208
+    },
+    "IM-0070-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.16027039289474487
+    },
+    "IM-0071-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.500068724155426
+    },
+    "IM-0073-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.928884744644165
+    },
+    "IM-0075-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8103762865066528
+    },
+    "IM-0077-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9963716268539429
+    },
+    "IM-0079-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6091252565383911
+    },
+    "IM-0081-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9989812970161438
+    },
+    "IM-0083-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6101575493812561
+    },
+    "IM-0084-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5337057709693909
+    },
+    "IM-0085-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6794542074203491
+    },
+    "IM-0086-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.1254367232322693
+    },
+    "IM-0087-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.2884334921836853
+    },
+    "IM-0089-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.483985036611557
+    },
+    "IM-0091-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.4731183350086212
+    },
+    "IM-0093-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8796347379684448
+    },
+    "IM-0095-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.41211429238319397
+    },
+    "IM-0097-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9534820914268494
+    },
+    "IM-0099-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.279204398393631
+    },
+    "IM-0101-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5648518800735474
+    },
+    "IM-0102-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.26215124130249023
+    },
+    "IM-0103-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.2917596399784088
+    },
+    "IM-0105-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9727395176887512
+    },
+    "IM-0107-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.3225647807121277
+    },
+    "IM-0109-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9924723505973816
+    },
+    "IM-0110-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9136366248130798
+    },
+    "IM-0111-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.25684019923210144
+    },
+    "NORMAL2-IM-0007-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9838720560073853
+    },
+    "NORMAL2-IM-0012-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7107720971107483
+    },
+    "NORMAL2-IM-0013-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5208829641342163
+    },
+    "NORMAL2-IM-0019-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9630497097969055
+    },
+    "NORMAL2-IM-0023-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6884328126907349
+    },
+    "NORMAL2-IM-0027-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.3934204876422882
+    },
+    "NORMAL2-IM-0028-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.239000141620636
+    },
+    "NORMAL2-IM-0029-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.21819067001342773
+    },
+    "NORMAL2-IM-0030-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9340350031852722
+    },
+    "NORMAL2-IM-0033-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.19221007823944092
+    },
+    "NORMAL2-IM-0035-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5734822750091553
+    },
+    "NORMAL2-IM-0041-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.935573160648346
+    },
+    "NORMAL2-IM-0045-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6839616298675537
+    },
+    "NORMAL2-IM-0051-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.3176688849925995
+    },
+    "NORMAL2-IM-0052-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9817732572555542
+    },
+    "NORMAL2-IM-0058-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.19553224742412567
+    },
+    "NORMAL2-IM-0059-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.735736608505249
+    },
+    "NORMAL2-IM-0060-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.24827639758586884
+    },
+    "NORMAL2-IM-0066-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.2906542718410492
+    },
+    "NORMAL2-IM-0072-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9278439879417419
+    },
+    "NORMAL2-IM-0073-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.983288049697876
+    },
+    "NORMAL2-IM-0079-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.1949896365404129
+    },
+    "NORMAL2-IM-0081-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.41191303730010986
+    },
+    "NORMAL2-IM-0086-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.21308955550193787
+    },
+    "NORMAL2-IM-0092-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9817414879798889
+    },
+    "NORMAL2-IM-0095-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9671491384506226
+    },
+    "NORMAL2-IM-0096-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9671491384506226
+    },
+    "NORMAL2-IM-0098-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.14532458782196045
+    },
+    "NORMAL2-IM-0102-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.39577874541282654
+    },
+    "NORMAL2-IM-0105-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.40588903427124023
+    },
+    "NORMAL2-IM-0107-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9415096044540405
+    },
+    "NORMAL2-IM-0110-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.46778663992881775
+    },
+    "NORMAL2-IM-0111-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7824679017066956
+    },
+    "NORMAL2-IM-0112-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.22856685519218445
+    },
+    "NORMAL2-IM-0117-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9646884202957153
+    },
+    "NORMAL2-IM-0120-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6544766426086426
+    },
+    "NORMAL2-IM-0123-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.667228102684021
+    },
+    "NORMAL2-IM-0129-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.19839970767498016
+    },
+    "NORMAL2-IM-0130-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.10767032951116562
+    },
+    "NORMAL2-IM-0131-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9140335321426392
+    },
+    "NORMAL2-IM-0132-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9708679914474487
+    },
+    "NORMAL2-IM-0135-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6471483707427979
+    },
+    "NORMAL2-IM-0139-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8473869562149048
+    },
+    "NORMAL2-IM-0141-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.27982744574546814
+    },
+    "NORMAL2-IM-0145-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9866921901702881
+    },
+    "NORMAL2-IM-0146-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.4292620122432709
+    },
+    "NORMAL2-IM-0150-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9714460372924805
+    },
+    "NORMAL2-IM-0171-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7713370323181152
+    },
+    "NORMAL2-IM-0173-0001-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5176894664764404
+    },
+    "NORMAL2-IM-0173-0001-0002.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5176894664764404
+    },
+    "NORMAL2-IM-0195-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9152220487594604
+    },
+    "NORMAL2-IM-0196-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6899173259735107
+    },
+    "NORMAL2-IM-0198-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.880538284778595
+    },
+    "NORMAL2-IM-0199-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9864959120750427
+    },
+    "NORMAL2-IM-0201-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9618297219276428
+    },
+    "NORMAL2-IM-0206-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.648699939250946
+    },
+    "NORMAL2-IM-0207-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.22849343717098236
+    },
+    "NORMAL2-IM-0210-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9915439486503601
+    },
+    "NORMAL2-IM-0213-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9334250688552856
+    },
+    "NORMAL2-IM-0217-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9759700298309326
+    },
+    "NORMAL2-IM-0219-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.984469473361969
+    },
+    "NORMAL2-IM-0221-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9919009208679199
+    },
+    "NORMAL2-IM-0222-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9655840992927551
+    },
+    "NORMAL2-IM-0229-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9592782258987427
+    },
+    "NORMAL2-IM-0232-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9995918273925781
+    },
+    "NORMAL2-IM-0233-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.632883608341217
+    },
+    "NORMAL2-IM-0237-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8660130500793457
+    },
+    "NORMAL2-IM-0238-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.99550461769104
+    },
+    "NORMAL2-IM-0241-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9983518123626709
+    },
+    "NORMAL2-IM-0246-0001-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6432098150253296
+    },
+    "NORMAL2-IM-0246-0001-0002.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6432098150253296
+    },
+    "NORMAL2-IM-0246-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9909957051277161
+    },
+    "NORMAL2-IM-0249-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.3673565983772278
+    },
+    "NORMAL2-IM-0251-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6263183355331421
+    },
+    "NORMAL2-IM-0252-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9965967535972595
+    },
+    "NORMAL2-IM-0256-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9962832927703857
+    },
+    "NORMAL2-IM-0259-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9809190630912781
+    },
+    "NORMAL2-IM-0267-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9610976576805115
+    },
+    "NORMAL2-IM-0271-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9420948028564453
+    },
+    "NORMAL2-IM-0272-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6042084693908691
+    },
+    "NORMAL2-IM-0273-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.29928791522979736
+    },
+    "NORMAL2-IM-0274-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.2470044195652008
+    },
+    "NORMAL2-IM-0275-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.2769230008125305
+    },
+    "NORMAL2-IM-0276-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.14907604455947876
+    },
+    "NORMAL2-IM-0277-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.4884149730205536
+    },
+    "NORMAL2-IM-0278-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.160133495926857
+    },
+    "NORMAL2-IM-0279-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.35721030831336975
+    },
+    "NORMAL2-IM-0280-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.48112377524375916
+    },
+    "NORMAL2-IM-0281-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.3846597671508789
+    },
+    "NORMAL2-IM-0282-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5157780647277832
+    },
+    "NORMAL2-IM-0283-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9357776641845703
+    },
+    "NORMAL2-IM-0285-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.23784254491329193
+    },
+    "NORMAL2-IM-0286-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.11482644081115723
+    },
+    "NORMAL2-IM-0287-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.27324989438056946
+    },
+    "NORMAL2-IM-0288-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8792524933815002
+    },
+    "NORMAL2-IM-0289-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.4025596082210541
+    },
+    "NORMAL2-IM-0290-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7789851427078247
+    },
+    "NORMAL2-IM-0292-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8953901529312134
+    },
+    "NORMAL2-IM-0294-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.48970043659210205
+    },
+    "NORMAL2-IM-0297-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.17173296213150024
+    },
+    "NORMAL2-IM-0300-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.12523998320102692
+    },
+    "NORMAL2-IM-0301-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5231918096542358
+    },
+    "NORMAL2-IM-0302-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.22189262509346008
+    },
+    "NORMAL2-IM-0303-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.55777907371521
+    },
+    "NORMAL2-IM-0304-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6202887296676636
+    },
+    "NORMAL2-IM-0305-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.47167855501174927
+    },
+    "NORMAL2-IM-0307-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.26162001490592957
+    },
+    "NORMAL2-IM-0309-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.13957324624061584
+    },
+    "NORMAL2-IM-0310-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.31067726016044617
+    },
+    "NORMAL2-IM-0311-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.245700865983963
+    },
+    "NORMAL2-IM-0312-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.1608123779296875
+    },
+    "NORMAL2-IM-0313-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7100489139556885
+    },
+    "NORMAL2-IM-0315-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6172703504562378
+    },
+    "NORMAL2-IM-0316-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.541796088218689
+    },
+    "NORMAL2-IM-0317-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.2572554349899292
+    },
+    "NORMAL2-IM-0319-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.22459498047828674
+    },
+    "NORMAL2-IM-0321-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.2071681171655655
+    },
+    "NORMAL2-IM-0322-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9819490909576416
+    },
+    "NORMAL2-IM-0323-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.23023808002471924
+    },
+    "NORMAL2-IM-0325-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.4237250089645386
+    },
+    "NORMAL2-IM-0326-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5777460336685181
+    },
+    "NORMAL2-IM-0327-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6419618725776672
+    },
+    "NORMAL2-IM-0328-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.32796159386634827
+    },
+    "NORMAL2-IM-0329-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6986382007598877
+    },
+    "NORMAL2-IM-0330-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8283840417861938
+    },
+    "NORMAL2-IM-0331-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.57357257604599
+    },
+    "NORMAL2-IM-0332-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.4028119444847107
+    },
+    "NORMAL2-IM-0333-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.11529124528169632
+    },
+    "NORMAL2-IM-0335-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.30090299248695374
+    },
+    "NORMAL2-IM-0336-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6830598711967468
+    },
+    "NORMAL2-IM-0337-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.1901130974292755
+    },
+    "NORMAL2-IM-0338-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.48348692059516907
+    },
+    "NORMAL2-IM-0339-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.23691591620445251
+    },
+    "NORMAL2-IM-0340-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8982810974121094
+    },
+    "NORMAL2-IM-0341-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.2065272182226181
+    },
+    "NORMAL2-IM-0343-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.3056775629520416
+    },
+    "NORMAL2-IM-0345-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.1239098459482193
+    },
+    "NORMAL2-IM-0346-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.32454851269721985
+    },
+    "NORMAL2-IM-0347-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.2662877142429352
+    },
+    "NORMAL2-IM-0348-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.1834769994020462
+    },
+    "NORMAL2-IM-0349-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9446277022361755
+    },
+    "NORMAL2-IM-0350-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5814363956451416
+    },
+    "NORMAL2-IM-0351-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.36525973677635193
+    },
+    "NORMAL2-IM-0352-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.3176867365837097
+    },
+    "NORMAL2-IM-0353-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.577843427658081
+    },
+    "NORMAL2-IM-0354-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.43084216117858887
+    },
+    "NORMAL2-IM-0357-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.11119230836629868
+    },
+    "NORMAL2-IM-0359-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.3187164068222046
+    },
+    "NORMAL2-IM-0360-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8219503164291382
+    },
+    "NORMAL2-IM-0361-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8720377087593079
+    },
+    "NORMAL2-IM-0362-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6296356916427612
+    },
+    "NORMAL2-IM-0364-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.35018834471702576
+    },
+    "NORMAL2-IM-0366-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8042199611663818
+    },
+    "NORMAL2-IM-0368-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5662062168121338
+    },
+    "NORMAL2-IM-0369-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.41338685154914856
+    },
+    "NORMAL2-IM-0370-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.13799865543842316
+    },
+    "NORMAL2-IM-0372-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.200408473610878
+    },
+    "NORMAL2-IM-0373-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9178791642189026
+    },
+    "NORMAL2-IM-0374-0001-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.2647647261619568
+    },
+    "NORMAL2-IM-0374-0001-0002.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6916422843933105
+    },
+    "NORMAL2-IM-0374-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.11531432718038559
+    },
+    "NORMAL2-IM-0376-0001.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8879440426826477
+    },
+    "NORMAL2-IM-0378-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.4574003517627716
+    },
+    "NORMAL2-IM-0380-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.39500245451927185
+    },
+    "NORMAL2-IM-0381-0001.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.4256983995437622
+    },
+    "person100_bacteria_475.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9250112175941467
+    },
+    "person100_bacteria_477.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8833706378936768
+    },
+    "person100_bacteria_478.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999346733093262
+    },
+    "person100_bacteria_479.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9977242946624756
+    },
+    "person100_bacteria_480.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998654723167419
+    },
+    "person100_bacteria_481.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.999426007270813
+    },
+    "person100_bacteria_482.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.999895453453064
+    },
+    "person101_bacteria_483.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9988342523574829
+    },
+    "person101_bacteria_484.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9926397204399109
+    },
+    "person101_bacteria_485.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.992882490158081
+    },
+    "person101_bacteria_486.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9990158081054688
+    },
+    "person102_bacteria_487.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9929996728897095
+    },
+    "person103_bacteria_488.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9968931674957275
+    },
+    "person103_bacteria_489.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9966466426849365
+    },
+    "person103_bacteria_490.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.3868218660354614
+    },
+    "person104_bacteria_491.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999500513076782
+    },
+    "person104_bacteria_492.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9977220892906189
+    },
+    "person108_bacteria_504.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999439120292664
+    },
+    "person108_bacteria_506.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9871047735214233
+    },
+    "person108_bacteria_507.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9749136567115784
+    },
+    "person108_bacteria_511.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7217913866043091
+    },
+    "person109_bacteria_512.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999826550483704
+    },
+    "person109_bacteria_513.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9984474182128906
+    },
+    "person109_bacteria_517.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.99359130859375
+    },
+    "person109_bacteria_519.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9989839792251587
+    },
+    "person109_bacteria_522.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9946113228797913
+    },
+    "person109_bacteria_523.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.995421826839447
+    },
+    "person109_bacteria_526.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998955726623535
+    },
+    "person109_bacteria_527.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.999890148639679
+    },
+    "person109_bacteria_528.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8358582854270935
+    },
+    "person10_virus_35.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9832534790039062
+    },
+    "person110_bacteria_531.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9994379878044128
+    },
+    "person111_bacteria_533.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999880790710449
+    },
+    "person111_bacteria_534.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998401999473572
+    },
+    "person111_bacteria_535.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9986078143119812
+    },
+    "person111_bacteria_536.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9977920651435852
+    },
+    "person111_bacteria_537.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9853326678276062
+    },
+    "person112_bacteria_538.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9986761808395386
+    },
+    "person112_bacteria_539.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9992745518684387
+    },
+    "person113_bacteria_540.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9994440674781799
+    },
+    "person113_bacteria_541.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9958666563034058
+    },
+    "person113_bacteria_542.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9966112375259399
+    },
+    "person113_bacteria_543.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.83341383934021
+    },
+    "person114_bacteria_544.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9983453154563904
+    },
+    "person114_bacteria_545.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998548030853271
+    },
+    "person114_bacteria_546.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9949477910995483
+    },
+    "person117_bacteria_553.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9963323473930359
+    },
+    "person117_bacteria_556.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9837552309036255
+    },
+    "person117_bacteria_557.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.28612712025642395
+    },
+    "person118_bacteria_559.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.988450288772583
+    },
+    "person118_bacteria_560.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8125892281532288
+    },
+    "person119_bacteria_565.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9992910623550415
+    },
+    "person119_bacteria_566.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999920725822449
+    },
+    "person119_bacteria_567.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8962854146957397
+    },
+    "person119_bacteria_568.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8202977180480957
+    },
+    "person11_virus_38.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9963527321815491
+    },
+    "person120_bacteria_570.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9996532201766968
+    },
+    "person120_bacteria_571.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9977650046348572
+    },
+    "person120_bacteria_572.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999513030052185
+    },
+    "person120_bacteria_573.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9718849658966064
+    },
+    "person121_bacteria_575.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998218417167664
+    },
+    "person121_bacteria_576.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9992865920066833
+    },
+    "person121_bacteria_578.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998556971549988
+    },
+    "person121_bacteria_579.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998391270637512
+    },
+    "person121_bacteria_580.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8953787684440613
+    },
+    "person122_bacteria_581.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8509143590927124
+    },
+    "person122_bacteria_582.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9997860789299011
+    },
+    "person122_bacteria_583.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9967818856239319
+    },
+    "person122_bacteria_584.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9991517663002014
+    },
+    "person122_bacteria_585.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9997057914733887
+    },
+    "person122_bacteria_586.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999062418937683
+    },
+    "person123_bacteria_587.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998894929885864
+    },
+    "person124_bacteria_589.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999257922172546
+    },
+    "person124_bacteria_590.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.993512749671936
+    },
+    "person124_bacteria_591.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998371005058289
+    },
+    "person124_bacteria_592.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9621424078941345
+    },
+    "person125_bacteria_594.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.999541163444519
+    },
+    "person125_bacteria_595.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.998837411403656
+    },
+    "person126_bacteria_598.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.99985271692276
+    },
+    "person126_bacteria_599.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999625086784363
+    },
+    "person126_bacteria_600.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9991625547409058
+    },
+    "person127_bacteria_602.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9977319836616516
+    },
+    "person127_bacteria_603.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998511075973511
+    },
+    "person127_bacteria_604.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8942787647247314
+    },
+    "person128_bacteria_605.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9992852210998535
+    },
+    "person128_bacteria_606.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999583959579468
+    },
+    "person128_bacteria_607.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999583959579468
+    },
+    "person128_bacteria_608.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8864266872406006
+    },
+    "person130_bacteria_623.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9179048538208008
+    },
+    "person130_bacteria_625.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998663663864136
+    },
+    "person130_bacteria_626.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9995831251144409
+    },
+    "person130_bacteria_627.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999759197235107
+    },
+    "person130_bacteria_628.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.84316086769104
+    },
+    "person131_bacteria_629.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9971276521682739
+    },
+    "person132_bacteria_632.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9919096827507019
+    },
+    "person133_bacteria_633.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9989857077598572
+    },
+    "person133_bacteria_634.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9995431303977966
+    },
+    "person133_bacteria_635.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999020099639893
+    },
+    "person133_bacteria_637.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9992656707763672
+    },
+    "person133_bacteria_638.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9997501969337463
+    },
+    "person134_bacteria_640.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.797855019569397
+    },
+    "person134_bacteria_641.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.998251736164093
+    },
+    "person134_bacteria_642.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9782689809799194
+    },
+    "person134_bacteria_643.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9924417734146118
+    },
+    "person134_bacteria_644.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9924417734146118
+    },
+    "person135_bacteria_646.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9983682036399841
+    },
+    "person135_bacteria_647.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9967765808105469
+    },
+    "person136_bacteria_648.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9161995649337769
+    },
+    "person136_bacteria_649.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9970524311065674
+    },
+    "person136_bacteria_650.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999645948410034
+    },
+    "person136_bacteria_652.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9980286359786987
+    },
+    "person136_bacteria_654.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6348345279693604
+    },
+    "person137_bacteria_655.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9983370900154114
+    },
+    "person138_bacteria_657.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.970513105392456
+    },
+    "person138_bacteria_658.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.959559440612793
+    },
+    "person138_bacteria_659.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998185634613037
+    },
+    "person139_bacteria_661.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.999672532081604
+    },
+    "person139_bacteria_662.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999248385429382
+    },
+    "person139_bacteria_663.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999365210533142
+    },
+    "person139_bacteria_664.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9994598627090454
+    },
+    "person139_bacteria_665.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9981287121772766
+    },
+    "person139_bacteria_666.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9563785195350647
+    },
+    "person140_bacteria_667.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9982057809829712
+    },
+    "person140_bacteria_668.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8137233257293701
+    },
+    "person141_bacteria_670.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9997875094413757
+    },
+    "person141_bacteria_676.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.99993896484375
+    },
+    "person141_bacteria_677.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999440312385559
+    },
+    "person141_bacteria_678.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9981868267059326
+    },
+    "person141_bacteria_681.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9987204074859619
+    },
+    "person142_bacteria_682.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9829684495925903
+    },
+    "person142_bacteria_683.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9990012049674988
+    },
+    "person142_bacteria_684.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9991252422332764
+    },
+    "person143_bacteria_687.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9837428331375122
+    },
+    "person143_bacteria_688.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9720127582550049
+    },
+    "person143_bacteria_689.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6354411840438843
+    },
+    "person144_bacteria_690.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9991819858551025
+    },
+    "person145_bacteria_696.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9977679252624512
+    },
+    "person146_bacteria_700.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9981511235237122
+    },
+    "person146_bacteria_703.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9733439087867737
+    },
+    "person146_bacteria_704.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9689049124717712
+    },
+    "person147_bacteria_705.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.999941885471344
+    },
+    "person147_bacteria_706.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9997012615203857
+    },
+    "person147_bacteria_707.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7228982448577881
+    },
+    "person147_bacteria_711.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7913007140159607
+    },
+    "person149_bacteria_713.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9992010593414307
+    },
+    "person14_virus_44.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9711318016052246
+    },
+    "person150_bacteria_715.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9977610111236572
+    },
+    "person150_bacteria_716.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9989492893218994
+    },
+    "person150_bacteria_717.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9180871844291687
+    },
+    "person151_bacteria_718.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9991011619567871
+    },
+    "person152_bacteria_720.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9993330836296082
+    },
+    "person152_bacteria_721.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999054670333862
+    },
+    "person152_bacteria_722.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9978507161140442
+    },
+    "person152_bacteria_723.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998431205749512
+    },
+    "person152_bacteria_724.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6999065279960632
+    },
+    "person153_bacteria_725.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9979022741317749
+    },
+    "person153_bacteria_726.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.2564029097557068
+    },
+    "person154_bacteria_728.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.1489809900522232
+    },
+    "person155_bacteria_729.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9311895966529846
+    },
+    "person155_bacteria_730.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9751812219619751
+    },
+    "person155_bacteria_731.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9980574250221252
+    },
+    "person157_bacteria_735.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999642372131348
+    },
+    "person157_bacteria_739.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999784827232361
+    },
+    "person157_bacteria_740.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7740983963012695
+    },
+    "person158_bacteria_742.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9997672438621521
+    },
+    "person158_bacteria_743.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9994050860404968
+    },
+    "person158_bacteria_744.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.999285101890564
+    },
+    "person158_bacteria_745.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8639476895332336
+    },
+    "person159_bacteria_746.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9981935620307922
+    },
+    "person159_bacteria_747.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999780058860779
+    },
+    "person15_virus_46.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.3524317741394043
+    },
+    "person1608_virus_2786.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9607625603675842
+    },
+    "person1610_virus_2793.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9992783069610596
+    },
+    "person1612_virus_2797.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999674558639526
+    },
+    "person1612_virus_2798.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9954200983047485
+    },
+    "person1613_virus_2799.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8940384387969971
+    },
+    "person1614_virus_2800.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9969874620437622
+    },
+    "person1615_virus_2801.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9990587830543518
+    },
+    "person1616_virus_2802.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9994258284568787
+    },
+    "person1618_virus_2805.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9763820767402649
+    },
+    "person1619_virus_2806.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.843291699886322
+    },
+    "person161_bacteria_757.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8087477684020996
+    },
+    "person161_bacteria_759.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9941161274909973
+    },
+    "person161_bacteria_762.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7453458905220032
+    },
+    "person1620_virus_2807.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9962506890296936
+    },
+    "person1622_virus_2810.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9976519346237183
+    },
+    "person1623_virus_2813.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9455490708351135
+    },
+    "person1625_virus_2817.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9942154884338379
+    },
+    "person1626_virus_2818.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9940208792686462
+    },
+    "person1627_virus_2819.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9980194568634033
+    },
+    "person1628_virus_2821.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.906279981136322
+    },
+    "person1628_virus_2822.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9648268222808838
+    },
+    "person1629_virus_2823.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9960671067237854
+    },
+    "person1631_virus_2826.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9778009653091431
+    },
+    "person1632_virus_2827.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9996236562728882
+    },
+    "person1633_virus_2829.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9021228551864624
+    },
+    "person1634_virus_2830.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9755257368087769
+    },
+    "person1635_virus_2831.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9976733326911926
+    },
+    "person1637_virus_2834.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9890266060829163
+    },
+    "person1640_virus_2839.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9468775987625122
+    },
+    "person1641_virus_2840.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.954435408115387
+    },
+    "person1642_virus_2842.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9979239702224731
+    },
+    "person1643_virus_2843.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9889014363288879
+    },
+    "person1644_virus_2844.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9995622634887695
+    },
+    "person1645_virus_2845.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9773372411727905
+    },
+    "person1647_virus_2848.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9337056875228882
+    },
+    "person1649_virus_2850.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999635219573975
+    },
+    "person1650_virus_2852.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9275785088539124
+    },
+    "person1650_virus_2854.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9924708604812622
+    },
+    "person1651_virus_2855.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998997449874878
+    },
+    "person1653_virus_2858.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9947544932365417
+    },
+    "person1653_virus_2859.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9493780136108398
+    },
+    "person1655_virus_2861.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9958450198173523
+    },
+    "person1656_virus_2862.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9976823925971985
+    },
+    "person1657_virus_2864.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9799895286560059
+    },
+    "person1659_virus_2867.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9955488443374634
+    },
+    "person1660_virus_2869.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9545500874519348
+    },
+    "person1661_virus_2872.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9956887364387512
+    },
+    "person1661_virus_2873.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9956887364387512
+    },
+    "person1662_virus_2875.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9712063074111938
+    },
+    "person1663_virus_2876.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.968940794467926
+    },
+    "person1664_virus_2877.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9994994401931763
+    },
+    "person1665_virus_2878.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9749828577041626
+    },
+    "person1667_virus_2881.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7508766651153564
+    },
+    "person1668_virus_2882.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8118990063667297
+    },
+    "person1669_virus_2884.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9980564713478088
+    },
+    "person1669_virus_2885.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.990490734577179
+    },
+    "person1670_virus_2886.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.998018205165863
+    },
+    "person1671_virus_2887.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.999517560005188
+    },
+    "person1672_virus_2888.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9962794184684753
+    },
+    "person1673_virus_2889.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9987165927886963
+    },
+    "person1674_virus_2890.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.983848512172699
+    },
+    "person1675_virus_2891.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9825598001480103
+    },
+    "person1676_virus_2892.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9897333383560181
+    },
+    "person1678_virus_2895.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9991779327392578
+    },
+    "person1679_virus_2896.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.999761700630188
+    },
+    "person1680_virus_2897.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999437928199768
+    },
+    "person1682_virus_2899.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9764942526817322
+    },
+    "person1685_virus_2903.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9910870790481567
+    },
+    "person16_virus_47.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5280184745788574
+    },
+    "person171_bacteria_826.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9989559054374695
+    },
+    "person172_bacteria_827.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9979941248893738
+    },
+    "person172_bacteria_828.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8709685802459717
+    },
+    "person173_bacteria_829.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9257348775863647
+    },
+    "person173_bacteria_830.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9890241622924805
+    },
+    "person173_bacteria_831.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.3812066614627838
+    },
+    "person174_bacteria_832.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8481749892234802
+    },
+    "person175_bacteria_833.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9946483373641968
+    },
+    "person175_bacteria_834.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9704916477203369
+    },
+    "person175_bacteria_835.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9965057969093323
+    },
+    "person17_virus_48.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7818707227706909
+    },
+    "person18_virus_49.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9505125284194946
+    },
+    "person19_virus_50.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.47286415100097656
+    },
+    "person1_virus_11.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9997020363807678
+    },
+    "person1_virus_12.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999231100082397
+    },
+    "person1_virus_13.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9405034780502319
+    },
+    "person1_virus_6.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998083114624023
+    },
+    "person1_virus_7.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999598264694214
+    },
+    "person1_virus_8.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999759793281555
+    },
+    "person1_virus_9.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.998108446598053
+    },
+    "person20_virus_51.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.5898635983467102
+    },
+    "person21_virus_52.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9982016682624817
+    },
+    "person21_virus_53.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8736348152160645
+    },
+    "person22_virus_54.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8486731052398682
+    },
+    "person22_virus_55.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.956345796585083
+    },
+    "person23_virus_56.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998794794082642
+    },
+    "person24_virus_58.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9974343180656433
+    },
+    "person25_virus_59.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9436574578285217
+    },
+    "person26_virus_60.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9937484264373779
+    },
+    "person28_virus_62.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9809263944625854
+    },
+    "person28_virus_63.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9904732704162598
+    },
+    "person29_virus_64.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.935043215751648
+    },
+    "person30_virus_69.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9863658547401428
+    },
+    "person31_virus_70.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.999601423740387
+    },
+    "person32_virus_71.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9930439591407776
+    },
+    "person33_virus_72.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9827781319618225
+    },
+    "person34_virus_76.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9645702242851257
+    },
+    "person35_virus_80.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.882664144039154
+    },
+    "person36_virus_81.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.999971330165863
+    },
+    "person37_virus_82.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.996820330619812
+    },
+    "person38_virus_83.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8743374347686768
+    },
+    "person38_virus_84.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9932326078414917
+    },
+    "person39_virus_85.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8669568300247192
+    },
+    "person3_virus_15.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9156891107559204
+    },
+    "person3_virus_16.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9892479777336121
+    },
+    "person3_virus_17.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9954432249069214
+    },
+    "person40_virus_87.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6968638896942139
+    },
+    "person41_virus_88.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9982166886329651
+    },
+    "person42_virus_89.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9713130593299866
+    },
+    "person43_virus_92.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9802557826042175
+    },
+    "person44_virus_93.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9936251044273376
+    },
+    "person44_virus_94.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9989820122718811
+    },
+    "person45_virus_95.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9949849247932434
+    },
+    "person46_virus_96.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9989144802093506
+    },
+    "person47_virus_99.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9971277117729187
+    },
+    "person48_virus_100.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9640260338783264
+    },
+    "person49_virus_101.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9430456757545471
+    },
+    "person50_virus_102.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9674233794212341
+    },
+    "person51_virus_105.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9734402298927307
+    },
+    "person52_virus_106.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9963501691818237
+    },
+    "person53_virus_107.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9907972812652588
+    },
+    "person53_virus_108.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8338168859481812
+    },
+    "person54_virus_109.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9325724840164185
+    },
+    "person55_virus_110.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8612819910049438
+    },
+    "person56_virus_112.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9973482489585876
+    },
+    "person57_virus_113.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9921483397483826
+    },
+    "person59_virus_116.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9966140389442444
+    },
+    "person60_virus_117.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9955796599388123
+    },
+    "person61_virus_118.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9670447111129761
+    },
+    "person62_virus_119.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9910546541213989
+    },
+    "person63_virus_121.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9961833953857422
+    },
+    "person64_virus_122.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9637183547019958
+    },
+    "person65_virus_123.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9919338226318359
+    },
+    "person66_virus_125.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9636873602867126
+    },
+    "person67_virus_126.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9984126687049866
+    },
+    "person69_virus_129.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.996669352054596
+    },
+    "person70_virus_130.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9987686276435852
+    },
+    "person71_virus_131.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998489618301392
+    },
+    "person71_virus_132.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999508261680603
+    },
+    "person72_virus_133.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9968140125274658
+    },
+    "person74_virus_135.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9908396005630493
+    },
+    "person75_virus_136.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9793633222579956
+    },
+    "person76_virus_138.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9753229022026062
+    },
+    "person77_virus_139.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9791893362998962
+    },
+    "person78_bacteria_378.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9975374937057495
+    },
+    "person78_bacteria_380.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999562501907349
+    },
+    "person78_bacteria_381.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9924445748329163
+    },
+    "person78_bacteria_382.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.998095691204071
+    },
+    "person78_bacteria_384.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999372959136963
+    },
+    "person78_bacteria_385.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9984675049781799
+    },
+    "person78_bacteria_386.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9996837973594666
+    },
+    "person78_bacteria_387.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6250814199447632
+    },
+    "person78_virus_140.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9578830003738403
+    },
+    "person79_virus_148.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8697214126586914
+    },
+    "person80_bacteria_389.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9987296462059021
+    },
+    "person80_bacteria_390.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998302459716797
+    },
+    "person80_bacteria_391.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9945650696754456
+    },
+    "person80_bacteria_392.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9991472959518433
+    },
+    "person80_bacteria_393.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9398083686828613
+    },
+    "person81_bacteria_395.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9981148838996887
+    },
+    "person81_bacteria_396.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9831051230430603
+    },
+    "person81_bacteria_397.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9986050724983215
+    },
+    "person81_bacteria_398.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9986194968223572
+    },
+    "person82_bacteria_402.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9971755146980286
+    },
+    "person82_bacteria_403.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.999340295791626
+    },
+    "person82_bacteria_404.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999702572822571
+    },
+    "person82_bacteria_405.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9995537400245667
+    },
+    "person83_bacteria_407.jpeg": {
+        "Prediction": "Normal",
+        "Confidence Score": 0.40111055970191956
+    },
+    "person83_bacteria_409.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999150633811951
+    },
+    "person83_bacteria_410.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998730421066284
+    },
+    "person83_bacteria_411.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9995293021202087
+    },
+    "person83_bacteria_412.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9951947927474976
+    },
+    "person83_bacteria_414.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9593749046325684
+    },
+    "person85_bacteria_417.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999971985816956
+    },
+    "person85_bacteria_419.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.987736701965332
+    },
+    "person85_bacteria_421.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999783635139465
+    },
+    "person85_bacteria_422.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998270869255066
+    },
+    "person85_bacteria_423.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9986874461174011
+    },
+    "person85_bacteria_424.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998719096183777
+    },
+    "person86_bacteria_428.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9278237223625183
+    },
+    "person86_bacteria_429.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.999650239944458
+    },
+    "person87_bacteria_433.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9936826825141907
+    },
+    "person87_bacteria_434.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9865619540214539
+    },
+    "person88_bacteria_437.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9956194758415222
+    },
+    "person88_bacteria_438.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9791006445884705
+    },
+    "person88_bacteria_439.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7599284052848816
+    },
+    "person89_bacteria_440.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.973881185054779
+    },
+    "person8_virus_27.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9689244031906128
+    },
+    "person8_virus_28.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9870068430900574
+    },
+    "person90_bacteria_442.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999129176139832
+    },
+    "person90_bacteria_443.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9433056712150574
+    },
+    "person91_bacteria_445.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8920979499816895
+    },
+    "person91_bacteria_446.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998948574066162
+    },
+    "person91_bacteria_447.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9952747821807861
+    },
+    "person91_bacteria_448.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.8770211338996887
+    },
+    "person91_bacteria_449.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9138021469116211
+    },
+    "person92_bacteria_450.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.999909520149231
+    },
+    "person92_bacteria_451.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9998329877853394
+    },
+    "person93_bacteria_453.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9723524451255798
+    },
+    "person93_bacteria_454.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9985060095787048
+    },
+    "person94_bacteria_456.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9662900567054749
+    },
+    "person94_bacteria_457.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999759793281555
+    },
+    "person94_bacteria_458.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9991471171379089
+    },
+    "person95_bacteria_463.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999915957450867
+    },
+    "person96_bacteria_464.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9979715347290039
+    },
+    "person96_bacteria_465.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9999848008155823
+    },
+    "person96_bacteria_466.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9992268681526184
+    },
+    "person97_bacteria_468.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.9993919730186462
+    },
+    "person99_bacteria_473.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.7702205181121826
+    },
+    "person99_bacteria_474.jpeg": {
+        "Prediction": "Pneumonia",
+        "Confidence Score": 0.6246377825737
+    }
+}
