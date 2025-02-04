@@ -59,7 +59,7 @@ model.summary()
 model.compile(loss="binary_crossentropy", optimizer="adam", metrics=["accuracy"])
 
 # Train Model
-model.fit(train_generator, validation_data=val_generator, epochs=5)
+model.fit(train_generator, validation_data=val_generator, epochs=3)
 
 # Save Model to Google Drive
 model.save(MODEL_PATH)
